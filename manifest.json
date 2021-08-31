@@ -1,0 +1,8 @@
+{
+  "domain": "mochad2",
+  "name": "Mochad2",
+  "documentation": "https://www.home-assistant.io/integrations/mochad",
+  "requirements": ["pymochad==0.2.0"],
+  "codeowners": [],
+  "version": "0.1.0"
+}
